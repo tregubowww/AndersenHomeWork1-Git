@@ -10,4 +10,5 @@ class MainActivity : AppCompatActivity() {
     }
     val str = "first commit some_branch"
     val str2 = "second commit some_branch"
+    val str3 = "third commit some_branch"
 }
