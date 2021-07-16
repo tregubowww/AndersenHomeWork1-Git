@@ -9,4 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
     val str = "first commit some_branch"
+    val str2 = "second commit some_branch"
 }
